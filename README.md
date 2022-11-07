@@ -108,6 +108,22 @@
 
 ### 成果
 
-   1、待续……
+   1、学习了解了Iterator trait和next方法，和一些适配器的用法；以及通过impl Iterator trait创建自定义的迭代器
+
+   2、知道了Cargo发布配置，文档注释///和//!的用法以及创建了creates.io的账号并配置token
+
+   3、了解了Cargo工作空间的使用，以及配置依赖create和install 别人的create
+
+   4、做了rustlings异常处理的题目
 
 <span id="2"></span>
+
+## 2022-11-08
+
+### 计划
+
+   1、学习智能指针的章节内容，争取学完该章节
+
+### 成果
+
+   1、待续……
